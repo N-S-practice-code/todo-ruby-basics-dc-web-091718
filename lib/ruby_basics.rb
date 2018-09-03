@@ -14,14 +14,14 @@ def greeting(greeting, name)
   puts greeting+name  
 end
 
-def return_a_value(value)
-  value
+def return_a_value
+  
 end
 
 def last_evaluated_value
-
+  
 end
 
-def pizza_party
-
+def pizza_party(value)
+  value
 end
